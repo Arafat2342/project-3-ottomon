@@ -1,0 +1,29 @@
+
+body{
+    color: white;
+    background-image: linear-gradient(to top right,#1c1b25 30%,aqua);
+}
+figcaption{
+    color: aquamarine;
+}
+h2{
+    color:gold;
+}
+li,footer{
+    color: goldenrod;
+}
+.lf{
+    text-indent: 2%;
+}
+.divi{
+    width: 1000px;
+    height: 7000px;
+    border: 0 solid;
+    background-image: linear-gradient(to top left,#1c1b25 30% ,aqua);
+    border-radius: 8px;
+}
+h2{
+    font-weight: bolder;
+    text-shadow: 2px 2px 6px;
+    box-shadow: 1px 2px 3px;
+}
